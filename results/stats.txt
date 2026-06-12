@@ -1,0 +1,13 @@
+
+========== RESULTADOS DEL BACKTEST ==========
+Período:                2014-01-02 → 2024-12-31
+Retorno total:          103.82%
+Retorno benchmark:      288.81%
+Sharpe Ratio:           0.76
+Sortino Ratio:          1.03
+Max Drawdown:           29.59%
+Win Rate:               61.54%
+Profit Factor:          2.47
+Total operaciones:      26
+Comisiones pagadas:     $7.35
+=============================================
